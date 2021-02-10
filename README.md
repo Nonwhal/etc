@@ -34,7 +34,7 @@ GENTOO_MIRRORS="http://gentoo.osuosl.org/ https://gentoo.osuosl.org/ http://mirr
 
 ACCEPT_KEYWORDS="~amd64"
 
-USE="alsa branding custom-cflags dga distcc djvu elogind ffmpeg flac gpm hardened ipv6 libcaca libressl offensive smp sound usb X xinerama
+USE="alsa branding custom-cflags dga distcc djvu elogind ffmpeg flac gpm hardened ipv6 libcaca libressl offensive savedconfig smp sound usb X xinerama
 
 -a52 -acpi -altivec -apache2 -appindicator -aqua -audit -ayatana -berkdb -bidi -big-endian -bluetooth -bzip2 -calendar -canna -caps -cdb -cdda -cddb
 
