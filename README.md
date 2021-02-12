@@ -34,7 +34,7 @@ GENTOO_MIRRORS="http://gentoo.osuosl.org/ https://gentoo.osuosl.org/ http://mirr
 
 ACCEPT_KEYWORDS="~amd64"
 
-USE="alsa elogind flac hardened ipv6 libcaca savedconfig X xinerama
+USE="alsa elogind flac hardened savedconfig X xinerama
 
 -a52 -acpi -altivec -apache2 -appindicator -aqua -audit -ayatana -berkdb -bidi -big-endian -bluetooth -bzip2 -calendar -canna -caps -cdb -cdda -cddb
 
