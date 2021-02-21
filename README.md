@@ -34,8 +34,8 @@ GENTOO_MIRRORS="http://gentoo.osuosl.org/ https://gentoo.osuosl.org/ http://mirr
 
 ACCEPT_KEYWORDS="~amd64"
 
-USE="X alsa branding djvu flac gpm hardened libressl pulseaudio savedconfig smp sound
-xinerama
+USE="X alsa branding djvu flac gpm hardened libressl pulseaudio savedconfig smp sound xinerama
+
 -Xaw3d -a52 -aac -aalib -accessibility -acl -acpi -adns -afs -altivec -ao -apache2
 
 -aqua -atm -appindicator -audiofile -audit -ayatana -bash-completion -berkdb -bidi
