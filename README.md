@@ -34,7 +34,7 @@ GENTOO_MIRRORS="http://gentoo.osuosl.org/ https://gentoo.osuosl.org/ http://mirr
 
 ACCEPT_KEYWORDS="~amd64"
 
-USE="X alsa branding djvu flac gpm hardened libressl pulseaudio savedconfig xinerama
+USE="X alsa branding djvu flac gpm hardened libressl savedconfig xinerama
 
 -Xaw3d -a52 -aac -aalib -accessibility -acl -acpi -adns -afs -altivec -ao -apache2
 
@@ -72,9 +72,9 @@ USE="X alsa branding djvu flac gpm hardened libressl pulseaudio savedconfig xine
 
 -perl -php -pie -plasma -plotutils -png -policykit -portaudio -posix -postgres 
 
--postscript -ppds -prefix -python -qdbm -qmail-spp -qt5 -quicktime -radius -raw -rdp
+-postscript -ppds -prefix -pulseaudio -python -qdbm -qmail-spp -qt5 -quicktime -radius
 
--rss -ruby -samba -sasl -scanner -sctp -sdl -semantic-desktop	-skey -slang -slp 
+-raw -rdp -rss -ruby -samba -sasl -scanner -sctp -sdl -semantic-desktop	-skey -slang -slp 
 
 -smartcard -snappy -sndfile -snmp -soap -sockets -socks5 -source -sox -speex -spell
 
