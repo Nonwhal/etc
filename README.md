@@ -34,17 +34,27 @@ GENTOO_MIRRORS="http://gentoo.osuosl.org/ https://gentoo.osuosl.org/ http://mirr
 
 ACCEPT_KEYWORDS="~amd64"
 
-USE="alsa elogind flac hardened savedconfig X xinerama
-
--a52 -acpi -altivec -apache2 -appindicator -aqua -audit -ayatana -berkdb -bidi -big-endian -bluetooth -bzip2 -calendar -canna -caps -cdb -cdda -cddb
-
--cdinstall -cdr -cjk -clamav -coreaudio -cracklib -css -cups -cxx -doc -dv -dvb -dvd -dvdr -emacs -emboss -fontconfig -freewnn -geoip -geolocation
-
--gnome -gnome-keyring -gnuplot -gps -gsl -gsm -gtk-doc -handbook -ibm -ieee1394 -inotify -ios -ipod -joystick -kde -libnotify -mms -mysql -mysqli -nas
-
--neon -oci8 -oci8-instant-client -oracle -oss -plasma -policykit -pulseaudio -quicktime -radius -samba -semantic-desktop -smartcard -speex -spell
-
--startup-notification -suid -systemd -telemetry -uclibc -vim-syntax -wayland -wifi -wmf -Xaw3d -xemacs -xscreensaver -zsh-completion"
+USE="X alsa branding djvu flac gpm hardened libressl 
+-Xaw3d -a52 -aac -aalib -accessibility -acl -acpi -adns -afs -altivec -ao -apache2
+-aqua -atm -appindicator -audiofile -audit -ayatana -bash-completion -berkdb -bidi
+-big-endian -blas -bluetooth -bzip2 -cairo -calendar -canna -caps -cdb -cdda -cddb
+-cdinstall -cdr -cgi -cjk -clamav -colord -connman -coreaudio	-cracklib -css -cups
+-cvs -cxx	-dbi -dbm -dga -doc -dts -dv -dvb -dvd -dvdr -eds -elogind -emacs -examples 
+-exif -expat -fam -fastcgi -fftw -filecaps -firebird -fltk -fortran -freetds 
+-freewnn -ftp -gd -gdbm -geoip -geolocation -ggi -gif -gimp -gles2-only	-glut -gmp
+-gnome -gnome-keyring	-gnuplot -gnutls -gphoto2 -gps -graphicsmagick -graphviz -gsl
+-gsm -gstreamer -gtk -gtk-doc -guile -gzip -handbook -hddtemp -hdf5 -headers-only	
+-hscolour -ibm -iconv -icu -ieee1394 -imagemagick -imlib -infiniband -inotify 
+-introspection -iodbc -ios -ipod -java -javascript -jbig -jit -joystick -jpeg -jpeg2k
+-kde -ladspa -lame -lapack -lapack -lash -latex -ldap -libass -libcaca -libedit
+-libnotify -libsamplerate -libwww -lirc -lua -luajit -m17n-lib -mad -magic -maildir
+-mbox -mhash -mikmod -milter -mmap -mms -mng -modplug -motif -mpeg -mpi -mssql -mtp
+-multilib -musepack -musicbrainz -musicbrainz -mysqli -nas -neXt -neon -netcdf -nis 
+-nls -nntp -nocd -nsplugin -ocaml -ocamlopt -oci8 -oci8-instant-client -odbc -ofx
+-openal -openexr -openmp -opus -oracle -osc -oss -pam -pch -pcmcia -pcre -pda -pdf 
+-perl
+-php -pie -plasma -plotutils -png -policykit -portaudio -posix -postgres -postscript 
+-ppds -prefix -"
 
 CPU_FLAGS_X86="aes avx avx2 f16c fma3 mmx mmxext pclmul popcnt rdrand sha sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3"
 
