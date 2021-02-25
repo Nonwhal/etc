@@ -1,0 +1,1 @@
+www-client/firefox -clang -debug eme-free -geckodriver -gmp-autoupdate hardened hwaccel lto openh264 pgo -pulseaudio -screencast system-av1 -wayland -wifi
