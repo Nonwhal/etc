@@ -1,0 +1,1 @@
+x11-wm/fvwm -bidi-debug -doc -nls -perl png -readline -svg -tk -truetype xinerama
