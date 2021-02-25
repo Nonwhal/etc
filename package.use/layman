@@ -1,1 +1,0 @@
-app-portage/layman -cvs  -darcs git sync-plugin-portage -subversion
